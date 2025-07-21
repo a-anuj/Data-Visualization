@@ -1,0 +1,18 @@
+1 - World Population Dataset (https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
+2 - World Population Dataset - World Bank (https://www.kaggle.com/datasets/aungdev/world-population-dataset-world-bank)
+3 - Per Capita GDP of All Countries (https://www.kaggle.com/datasets/dataanalyst001/per-capita-gdp-of-all-countries-1970-to-2022)
+4 - Youth and Adult Literacy Rate around the Globe (https://www.kaggle.com/datasets/komalkhetlani/youth-and-adult-literacy-rate-around-the-globe)
+5 - Female Literacy Rate (https://genderdata.worldbank.org/en/indicator/se-sec-enrr)
+6 - Global Country Information Dataset 2023 (https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023)
+
+
+1 - How did China’s population grow before and after the start of industrialization in 1978?
+2 - How did industrialization impact population growth differently in South Korea and Bangladesh after 1960?
+3 - Do similar land areas mean similar populations? Comparison between Saudi Arabia and Mexico
+4 - How much do India and China contribute to Asia’s total population?
+5 - How does the level of development impact population growth? A comparison between India and Nigeria
+6 - Which continent’s share in global population has shrunk over the years, and which has grown?
+7 - Can differences in female literacy explain the contrasting population growth trends in Sri Lanka and Afghanistan?
+8 - How does GDP per capita influence population growth when comparing high-income countries like Norway with low-income countries like Niger?
+9 - Between GDP per capita and youth literacy, which factor has a stronger influence on population growth?
+10 - How has the global population growth curve changed visually across different regions — Asia, Africa, Europe?
